@@ -81,5 +81,5 @@ Your personal portfolio website
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hetviipatel&show_icons=true&theme=tokyonight" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetviipatel&layout=compact&theme=tokyonight" height="160px"/> </p>
 
 ## 🌐 Connect With Me
-<p> <a href="https://www.linkedin.com/in/hetviipatel/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hetvinp14@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p> <a href="https://www.linkedin.com/in/hetvi-patel145/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hetvinp14@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
