@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Hetvi 👋</h1>
 
-<!--
-**hetviipatel/hetviipatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Full-Stack Developer • Angular + ASP.NET Core • AI & ML Enthusiast</em><br/>
+  <em>I love building clean UIs, scalable APIs, and intelligent systems.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Hetvi Patel"
+        self.role = "Full-Stack Developer"
+        self.skills = [
+            "Angular", "ASP.NET Core", "Java", 
+            "C#", "TypeScript", "MS-SQL", "Machine Learning"
+        ]
+        self.hobbies = ["Cycling", "Designing", "Exploring Tech"]
+
+    def intro(self):
+        return f"Hi, I'm {self.name} — passionate about {self.role} and building meaningful projects!"
+
+me = Developer()
+print(me.intro())
+
